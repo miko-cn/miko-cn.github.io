@@ -12,6 +12,9 @@ nav:
   - 游戏开发:
     - Unity:
       - gamedev/unity/index.md
+    - DirectX:
+      - gamedev/directx/index.md
+      - DX12 VS2022环境搭建踩坑: gamedev/directx/learn-dx12/hellodx12.md
   - 插画笔记:
     - Krenz 绘画学习路径: paint/krenz-path.md
   - 工具箱:
