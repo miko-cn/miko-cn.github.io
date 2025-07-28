@@ -60,6 +60,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: 切换到系统默认
+  custom_dir: overrides
 copyright: Copyright &copy; 2024 - 2025 MikoTechTips
 extra:
   social:
